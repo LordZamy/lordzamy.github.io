@@ -5,7 +5,7 @@
   "homepage": "http://lordzamy.github.io",
   "author": "lordzamy",
   "license": {
-    "type": "MIT",
+    "type": "MIT"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
