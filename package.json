@@ -1,12 +1,11 @@
 {
-  "name": "freelancer",
-  "title": "Freelancer",
+  "name": "lordzamy.github.io",
+  "title": "Samarth Wahal's Personal Website for CS 1100",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
+  "homepage": "http://lordzamy.github.io",
+  "author": "lordzamy",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -22,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+    "url": "https://github.com/LordZamy/lordzamy.github.io"
   }
 }
